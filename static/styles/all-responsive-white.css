@@ -3698,7 +3698,7 @@ div.top img {
 }
 
 .sidebar + .main-container .list-videos .item {
-    width: 19.6%;
+    width: 31.6%;
 }
 
 .list-members .item a {
@@ -9603,7 +9603,7 @@ header .languagebox.xh-dropdown .xh-button:after {
     .member-menu + .main-container-user .list-playlists .item,
     .list-playlists .item,
     .list-videos .item {
-        width: 48%;
+        width: 95%;
         margin: 5px 0 0 5px;
     }
 
