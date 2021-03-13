@@ -7156,7 +7156,7 @@ div.top img {
 }
 
 .frame-for-banner {
-    background: url(/static/images/sample/sample-300x250.jpg) no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/kvs674/xh-st/static/images/sample/sample-300x250.jpg) no-repeat;
     height: 250px;
     background-position: 50%;
     height: 250px;
@@ -8167,43 +8167,43 @@ header .languagebox.xh-dropdown .xh-button:after {
 }
 
 .xh-flag.en {
-    background-image: url(/static/images/flags/gb.gif);
+    background-image: url(https://cdn.jsdelivr.net/gh/kvs674/xh-st/static/images/flags/gb.gif);
 }
 
 .xh-flag.de {
-    background-image: url(/static/images/flags/de.gif);
+    background-image: url(https://cdn.jsdelivr.net/gh/kvs674/xh-st/static/images/flags/de.gif);
 }
 
 .xh-flag.fr {
-    background-image: url(/static/images/flags/fr.gif);
+    background-image: url(https://cdn.jsdelivr.net/gh/kvs674/xh-st/static/images/flags/fr.gif);
 }
 
 .xh-flag.es {
-    background-image: url(/static/images/flags/es.gif);
+    background-image: url(https://cdn.jsdelivr.net/gh/kvs674/xh-st/static/images/flags/es.gif);
 }
 
 .xh-flag.pl {
-    background-image: url(/static/images/flags/pl.gif);
+    background-image: url(https://cdn.jsdelivr.net/gh/kvs674/xh-st/static/images/flags/pl.gif);
 }
 
 .xh-flag.it {
-    background-image: url(/static/images/flags/it.gif);
+    background-image: url(https://cdn.jsdelivr.net/gh/kvs674/xh-st/static/images/flags/it.gif);
 }
 
 .xh-flag.ru {
-    background-image: url(/static/images/flags/ru.gif);
+    background-image: url(https://cdn.jsdelivr.net/gh/kvs674/xh-st/static/images/flags/ru.gif);
 }
 
 .xh-flag.pt {
-    background-image: url(/static/images/flags/pt.gif);
+    background-image: url(https://cdn.jsdelivr.net/gh/kvs674/xh-st/static/images/flags/pt.gif);
 }
 
 .xh-flag.jp {
-    background-image: url(/static/images/flags/jp.gif);
+    background-image: url(https://cdn.jsdelivr.net/gh/kvs674/xh-st/static/images/flags/jp.gif);
 }
 
 .xh-flag.nl {
-    background-image: url(/static/images/flags/nl.gif);
+    background-image: url(https://cdn.jsdelivr.net/gh/kvs674/xh-st/static/images/flags/nl.gif);
 }
 
 /* select2 plugin */
