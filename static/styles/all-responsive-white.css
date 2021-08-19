@@ -4871,7 +4871,7 @@ div.top img {
 /* pagination */
 .pagination {
     text-align: center;
-	margin: 20px;
+	margin-bottom: 12px;
 }
 
 .pagination-holder {
