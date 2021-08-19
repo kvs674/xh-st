@@ -2761,6 +2761,7 @@ form .progressbar .progress {
 .footer {
     border-top: 1px solid #dadada;
     width: 100%;
+	background: #9f9f9f;
 }
 
 .footer .up-arrow i {
